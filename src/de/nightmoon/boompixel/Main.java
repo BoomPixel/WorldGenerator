@@ -8,7 +8,7 @@ import org.bukkit.entity.Player;
 import org.bukkit.plugin.java.JavaPlugin;
 
 /**
- * Created by Jo-Jo-Computer on 11.06.2017.
+ * Created by Admin on 11.06.2017.
  */
 public class Main extends JavaPlugin {
 

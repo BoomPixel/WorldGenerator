@@ -13,7 +13,7 @@ import org.bukkit.entity.Player;
 import java.io.File;
 
 /**
- * Created by Jo-Jo-Computer on 11.06.2017.
+ * Created by Admin on 11.06.2017.
  */
 public class WorldGenerator_CMD implements CommandExecutor {
 

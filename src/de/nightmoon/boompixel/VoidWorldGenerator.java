@@ -10,7 +10,7 @@ import java.util.List;
 import java.util.Random;
 
 /**
- * Created by Jo-Jo-Computer on 11.06.2017.
+ * Created by Admin on 11.06.2017.
  */
 public class VoidWorldGenerator extends ChunkGenerator {
 
